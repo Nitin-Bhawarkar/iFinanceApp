@@ -35,7 +35,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ![Screenshot (2271)](https://github.com/user-attachments/assets/768c20fc-c05d-48bf-aa6b-057dbf110aa2)
 
 ### `Finance Dashboard Balance Sheet`
-![Screenshot (2272)](https://github.com/user-attachments/assets/f1b4bbe7-2bf9-4b7d-804c-52c3841fdcae)
+![Screenshot (2273)](https://github.com/user-attachments/assets/e791432c-6016-400d-a0a7-e905d43c439c)
 
 ### `Finance Dashboard Cashflow Statement`
 ![Screenshot (2274)](https://github.com/user-attachments/assets/66fda973-7c82-4e59-9997-ce1218f916c4)
