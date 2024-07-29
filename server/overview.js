@@ -6,8 +6,8 @@ import dotenv from "dotenv"
 dotenv.config();
 const baseURL= "https://www.alphavantage.co/query"
 
-// const apikey = "499DLIMQWQUP8W7Z"
-const apikey = "AOQLEZTI5KW4XBGQ"
+
+const apikey = process.env.API_KEY
 
 
 export async function fetchData(symbol) {
